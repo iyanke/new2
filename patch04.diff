@@ -1,14 +1,8 @@
-diff --git a/README.md b/README.md
-index 6a8d6da..040bcb4 100644
---- a/README.md
-+++ b/README.md
-@@ -1 +1 @@
--"# new1" 
-+asasasasasas"# new1" 
 diff --git a/patch05.diff b/patch05.diff
-index db69178..e69de29 100644
+deleted file mode 100644
+index db69178..0000000
 --- a/patch05.diff
-+++ b/patch05.diff
++++ /dev/null
 @@ -1,9 +0,0 @@
 -diff --git a/test2/execute.bat b/test2/execute.bat
 -index 75d1214..fb14047 100644
